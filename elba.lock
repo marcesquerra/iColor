@@ -1,0 +1,4 @@
+[[packages]]
+id = 'marcesquerra/iColor@dir+/Development/opensource/iColor'
+version = '0.1.0'
+dependencies = []
